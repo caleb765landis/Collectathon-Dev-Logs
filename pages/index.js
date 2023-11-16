@@ -27,7 +27,8 @@ export default function Home({allPostsData}) {
 					Collectathon, which is a video game library management application.
 				</p>
 				<p>
-					To start reading posts from the beggining of development,{" "}
+					To learn more about what Collectathon is and to start reading posts
+					from the beggining of development,{" "}
 					<Link href={`/posts/${allPostsData[allPostsData.length - 1].id}`}>
 						click here.
 					</Link>{" "}
