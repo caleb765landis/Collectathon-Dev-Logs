@@ -2,7 +2,7 @@
 title: "Introduction to the Project"
 date: "2023-11-16"
 prev: null
-next: null
+next: "vision"
 ---
 
 # Welcome to Collectathon - Dev Logs!
@@ -27,6 +27,6 @@ Now that we've estabilished a solid overview for what Collectathon will be, it's
 
 I'm excited to finally have an ongoing personal project, and to be honest... I can't wait to use my own product! I love that I'll be able to keep adding new features and capabilities for the application whenever I think of them. If there's something I don't like about using the app, I can change it. That's the beauty of learning software development - you can design applications that you actually want to use, and you have something to show others when they ask what you do at work.
 
-Thank you for joining me on this journey! If you have an feedback or suggestions, please send me a message! I'll link my [contact page](https://portfolio-caleb765landis.vercel.app/contact/) so you can send me a message or reach out in other ways.
+Thank you for joining me on this journey! If you have any feedback or suggestions, please send me a message! I'll link my [contact page](https://portfolio-caleb765landis.vercel.app/contact/) so you can send me a message or reach out in other ways.
 
 -Caleb

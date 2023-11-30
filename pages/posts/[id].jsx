@@ -38,7 +38,7 @@ export default function Post({postData}) {
 				<div dangerouslySetInnerHTML={{__html: postData.contentHtml}} />
 			</article>
 			<div className={utilStyles.pagination}>
-				{postData.prev && <Link href="/">← Prev</Link>}
+				{postData.prev && <Link href={`/posts/${postData.prev}`}>← Prev</Link>}
 				<Link href="/">Home</Link>
 				{postData.next && <Link href={`/posts/${postData.next}`}>Next →</Link>}
 			</div>
